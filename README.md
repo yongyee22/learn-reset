@@ -9,3 +9,7 @@ Git 저장소 초기화하기
 push, pull 명령어 사용하기
 
 Git이이이
+Git이 좋아
+Git이 싫어
+
+git은 너무 어려워
